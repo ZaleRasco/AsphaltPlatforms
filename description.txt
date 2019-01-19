@@ -1,1 +1,3 @@
 This mod adds asphalt platforms, crafted with an asphalt block at a Blend-O-Matic. These increase your run speed in the same way regular asphalt blocks do, and can be passed through like any platform.
+
+Open Source on GitHub: https://github.com/Zayul/AsphaltPlatforms
