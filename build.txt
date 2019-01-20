@@ -1,5 +1,5 @@
 author = Zale
-version = 0.2
+version = 0.3
 displayName = Asphalt Platforms
 homepage = https://forums.terraria.org/index.php?threads/asphalt-platforms.75675/
 hideCode = false
