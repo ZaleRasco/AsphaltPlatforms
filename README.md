@@ -9,3 +9,5 @@ https://forums.terraria.org/index.php?threads/asphalt-platforms.75675/#post-1695
 tModLoader installation guide here:
 
 https://github.com/blushiemagic/tModLoader/wiki/Basic-tModLoader-Usage-Guide
+
+Once you have installed tModLoader you can download in-game through the mod browser. Just search for the name of this mod, and click download.
