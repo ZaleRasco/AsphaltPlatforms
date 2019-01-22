@@ -11,3 +11,5 @@ tModLoader installation guide here:
 https://github.com/blushiemagic/tModLoader/wiki/Basic-tModLoader-Usage-Guide
 
 Once you have installed tModLoader you can download in-game through the mod browser. Just search for the name of this mod, and click download.
+
+Open-Source under the GNU General Public License v3.0
