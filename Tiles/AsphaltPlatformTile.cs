@@ -17,6 +17,7 @@ namespace AsphaltPlatforms.Tiles
 			Main.tileNoAttach[Type] = true;
 			Main.tileTable[Type] = true;
 			Main.tileLavaDeath[Type] = false;
+			Main.tileWaterDeath[Type] = false;
 			TileID.Sets.Platforms[Type] = true;
 			TileObjectData.newTile.CoordinateHeights = new[] { 16 };
 			TileObjectData.newTile.CoordinateWidth = 16;
@@ -25,7 +26,7 @@ namespace AsphaltPlatforms.Tiles
 			TileObjectData.newTile.StyleMultiplier = 27;
 			TileObjectData.newTile.StyleWrapLimit = 27;
 			TileObjectData.newTile.UsesCustomCanPlace = false;
-			TileObjectData.newTile.LavaDeath = true;
+			TileObjectData.newTile.LavaDeath = false;
 			TileObjectData.addTile(Type);
 			AddToArray(ref TileID.Sets.RoomNeeds.CountsAsDoor);
 			AddMapEntry(new Color(47, 51, 58));
